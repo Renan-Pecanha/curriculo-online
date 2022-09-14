@@ -1,0 +1,58 @@
+.folha{
+    width:auto;
+    height:auto;
+    display: flex;
+  }
+  #profilepic{
+    width:150px;
+    height:150px;
+    float:left;
+    border-radius:150px;
+    border:1px solid black;
+    box-shadow:2px 3px 10px black;
+    margin-top:20px;
+    margin-left:20px;
+    filter:grayscale(100%);
+  }
+  .nome{
+    float:left; 
+    margin-top:60px;
+    margin-left:30px;
+    font-family:arial;
+  }
+  .dadospessoais{
+    position:absolute;
+    margin-top:195px;
+    margin-left:30px;
+  }
+  .linha{
+    width:300px;
+    height: 2px;
+    
+    background:black;
+  }
+  .dados{
+    font-family:Sans-serif;
+    font-size: 16px;
+    margin-top: 200px;
+    margin-left: 20px;
+  }
+  .margin{
+    margin-left:40px;
+  }
+  .margin1{
+    margin-left:10px;
+  }
+  .bloco1{
+    width: 400px;
+    height: 806px;
+    background-color: rgb(4, 163, 163);
+  }
+  .bloco2{
+    width: 550px;
+    height: 800px;
+    border-style:groove;
+    border-left: 0ch;
+    border-color: black;
+    
+  }
